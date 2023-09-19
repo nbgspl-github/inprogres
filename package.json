@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.12.4",
+    "packages": "^0.0.8",
+    "react-router-dom": "^6.16.0",
+    "swiper": "^10.2.0"
+  }
+}

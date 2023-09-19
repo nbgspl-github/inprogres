@@ -1,0 +1,15 @@
+.img{
+  
+    position: absolute;
+   
+    width: 100px;
+    height: 500px;
+}
+.img.box {
+
+    background: #ffffff;
+    border-radius: 6px;
+    border: 1px solid rgb(62 28 131 / 10%);
+    padding: 2rem;
+    transition: 0.5s;
+}
