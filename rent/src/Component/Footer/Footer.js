@@ -55,8 +55,8 @@ const Footer = () => {
       <div className='legal'>
       <a href="Home" alt="" style={{color:"grey",padding:"15px"}}>Home </a>
     <a href="Menu" alt="" style={{color:"grey" ,padding:"15px"}}>Menu</a>
-    <a href="About" alt="" style={{color:"grey" ,padding:"15px"}}>About</a>
-    <a href="Contact" alt="" style={{color:"grey" ,padding:"15px"}}>Contact Us</a>
+    <a href="About Us" alt="" style={{color:"grey" ,padding:"15px"}}>About</a>
+    <a href="Contact Us" alt="" style={{color:"grey" ,padding:"15px"}}>Contact Us</a>
     <a href="Preview" alt="" style={{color:"grey",padding:"15px"}}>Preview</a>
     <a href="Terms&Condition" alt="" style={{color:"grey",padding:"15px"}}>Terms & Conditions </a>
     <a href="PrivacyPolicy" alt="" style={{color:"grey",padding:"15px"}}>Privacy Policy</a>
